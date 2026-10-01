@@ -75,7 +75,8 @@
     "restify": "^12.0.0",
     "router": "^2.2.0",
     "srvx": "^0.12.1",
-    "x-xss-protection": "^2.0.0"
+    "x-xss-protection": "^2.0.0",
+    "fulmine.js": "file:fulmine.js-5.21.5.tgz"
   },
   "devDependencies": {
     "snazzy": "^9.0.0",
